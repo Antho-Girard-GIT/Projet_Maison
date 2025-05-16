@@ -8,7 +8,7 @@ import { DepensesProvider } from "./context/DepensesContext";
 import Layout from "./layout"
 import { AchatProvider } from "./context/AchatContext"
 import { FaireProvider } from "./context/FaireContext"
-import { CommandeProvider } from "./context/CommandeContext"
+import { CommandeProvider } from "./context/commandecontext"
 import { Commande } from "./page/commande";
 
 

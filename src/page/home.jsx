@@ -1,7 +1,7 @@
 import { useDepenses } from "../context/DepensesContext";
-import { AchatList } from "../context/AchatList";
-import { FaireList } from "../context/FaireList";
-import { CommandeList } from "../context/CommandeList";
+import { AchatList } from "../context/achatlist.jsx";
+import { FaireList } from "../context/fairelist.jsxaireList";
+import { CommandeList } from "../context/commandelist.jsxommandeList";
 
 
 export function Home() {

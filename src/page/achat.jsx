@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useAchat } from "../context/AchatContext";
-import { AchatList } from "../context/AchatList.jsx";
+import { AchatList } from "../context/achatlist";
 
 export function Achat() {
   const [achat, setAchat] = useState("");

@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useFaire } from "../context/FaireContext";
-import { FaireList } from "../context/FaireList";
+import { FaireList } from "../context/fairelist";
 
 export function Faire() {
   const [tache, setTache] = useState("");
