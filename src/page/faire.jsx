@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useFaire } from "../context/FaireContext";
+import { useFaire } from "../context/fairecontext";
 import { FaireList } from "../context/fairelist";
 
 export function Faire() {

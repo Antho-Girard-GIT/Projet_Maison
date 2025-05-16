@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useDepenses } from "../context/DepensesContext";
+import { useDepenses } from "../context/depensescontext";
 
 export function Depense() {
   const { depenses, setDepenses } = useDepenses()

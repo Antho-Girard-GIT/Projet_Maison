@@ -1,4 +1,4 @@
-import { useFaire } from "../context/FaireContext";
+import { useFaire } from "../context/fairecontext";
 
 export function FaireList() {
   const { taches, deleteTache } = useFaire();
