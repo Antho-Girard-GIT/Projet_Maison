@@ -4,10 +4,10 @@ import { Home } from "./page/home"
 import { Depense } from "./page/depense"
 import { Achat } from "./page/achat"
 import { Faire } from "./page/faire"
-import { DepensesProvider } from "./context/DepensesContext";
+import { DepensesProvider } from "./context/depensescontext";
 import Layout from "./layout"
-import { AchatProvider } from "./context/AchatContext"
-import { FaireProvider } from "./context/FaireContext"
+import { AchatProvider } from "./context/achatcontext"
+import { FaireProvider } from "./context/fairecontext"
 import { CommandeProvider } from "./context/commandecontext"
 import { Commande } from "./page/commande";
 
